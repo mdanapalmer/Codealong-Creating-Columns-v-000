@@ -126,7 +126,9 @@ img, video, audio {
 
 /* style sections */
 
-heading {
+header {
+  position: fixed;
+}
 
 section {
   padding: 20px;
