@@ -141,5 +141,6 @@ section {
 }
 
 #social a {
-  
+  display: block;
+  height 40px
 }
