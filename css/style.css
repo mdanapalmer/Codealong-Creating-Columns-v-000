@@ -73,4 +73,6 @@ figcaption {
 
 /* style some layout*/
 
-.wrapper
+.wrapper {
+  width: 960px;
+}
